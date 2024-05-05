@@ -1,1 +1,2 @@
-# airflow-vars-conn-secret-manager
+# Keep Your Airflow Variables and Connections Safe with GCP Secret Manager 🔐
+
