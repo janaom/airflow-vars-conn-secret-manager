@@ -159,6 +159,18 @@ You can also observe and verify these actions by reviewing the Query History in 
 
 ![1 YcGvXQQklSNdyII-LtnA7Q](https://github.com/janaom/airflow-vars-conn-secret-manager/assets/83917694/27202314-5ea6-4bfc-bf84-49b1d3e74095)
 
+You can run the same DAG with the variables and connections managed through the Airflow UI. Here is an example how to add them to Airflow UI. Don't forget to test the connection.
+
+![image](https://github.com/janaom/airflow-vars-conn-secret-manager/assets/83917694/0fa359b9-cc28-434f-b812-5514c3413ce2)
+
+![image](https://github.com/janaom/airflow-vars-conn-secret-manager/assets/83917694/70dfcec5-37ba-4a14-859e-eb3ff7d0ff85)
+
+![Screenshot (1686)](https://github.com/janaom/airflow-vars-conn-secret-manager/assets/83917694/fcfb175a-367c-4db1-90c1-15099cb9eb72)
+
+![Screenshot (1687)](https://github.com/janaom/airflow-vars-conn-secret-manager/assets/83917694/0f73a9ed-4012-4925-84e1-f0d0757706ba)
+
+
+
 If you'd like to share your experiences with Secret Manager or have any thoughts on the topic, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jana-polianskaja/). I'd love to hear from you and connect! 😊
 
 
