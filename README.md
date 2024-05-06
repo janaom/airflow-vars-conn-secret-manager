@@ -170,7 +170,6 @@ You can run the same DAG with the variables and connections managed through the 
 ![Screenshot (1687)](https://github.com/janaom/airflow-vars-conn-secret-manager/assets/83917694/0f73a9ed-4012-4925-84e1-f0d0757706ba)
 
 
-
 If you'd like to share your experiences with Secret Manager or have any thoughts on the topic, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jana-polianskaja/). I'd love to hear from you and connect! 😊
 
 
