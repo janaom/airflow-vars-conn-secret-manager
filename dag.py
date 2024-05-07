@@ -15,7 +15,7 @@ default_args = {
 }
 
 dag = DAG(
-    'snowflake_to_gcs_sm',
+    'snowflake_to_gcs',
     default_args=default_args,
     description='Query Snowflake and save to GCS',
     schedule_interval=timedelta(days=1),
